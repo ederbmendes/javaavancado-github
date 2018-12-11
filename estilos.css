@@ -1,5 +1,9 @@
 body{
 	background-color:red;
+}
+
+h2, h3{
 	font-family:Tahoma;
 	color:blue;
+
 }
